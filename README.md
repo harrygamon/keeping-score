@@ -1,19 +1,32 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Score Counter
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A digital scoreboard for tracking scores between two teams/players, built as a solo project
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## ⚡ Features
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Live score tracking for HOME and GUEST
+- Multiple increment buttons (+1, +2, +3) for quick scoring
+- Clean, modern UI with digital-style score displays
+- Responsive two-column layout
 
-Happy Coding!
+## 🛠️ Built With
+
+- HTML5
+- CSS3 (Flexbox)
+- Vanilla JavaScript
+- Google Fonts (Tourney)
+
+
+
+## 🚀 Live Demo
+
+[View Live Project](#) <!-- Add your deployment link -->
+
+## 📁 Setup
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Start tracking scores!
+
+---
+
