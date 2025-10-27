@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #6B7280;
+    font-family: sans-serif, Tourney;
+}
+
+@font-face {
+    src: url("CursedTimerUlil-Aznm.ttf");
+    font-family: score-font;
+}
+
+
+.score {
+    background: #1F2937;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    border: 2px solid #FBBF24;
+    border-radius: 5px;
+    padding: 50px;
+    font-family: score-font;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0 0 0;
+    color: white;
+}
+
+button {
+    background: none;
+    border: 1px solid #9CA3AF;
+    border-radius: 5px;
+    font-family: score-font;
+    padding:10px 15px;
+}
+
+.txt-score {
+    color: white;
+    font-family: Tourney;
+    font-size: 50px;
+    text-shadow: 0 0 10px #FBBF24
+}
+
