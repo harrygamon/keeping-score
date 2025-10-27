@@ -1,0 +1,12 @@
+{
+  "name": "keep-score",
+  "version": "1.0.0",
+  "description": "A simple score keeping application",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html index.css index.js CursedTimerUlil-Aznm.ttf dist/",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["scoreboard", "timer"],
+  "author": "",
+  "license": "MIT"
+}
